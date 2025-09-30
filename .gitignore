@@ -1,0 +1,37 @@
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+.venv/
+*.env
+
+# FastAPI
+*.db
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+﻿# Node dependencies
+node_modules/
+
+# Build output
+.next/
+out/
+
+# Local environment files
+.env
+.env.local
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

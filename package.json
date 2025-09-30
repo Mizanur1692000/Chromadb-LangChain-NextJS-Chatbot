@@ -1,0 +1,25 @@
+{
+  "name": "rag-chroma-gemini",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.21.0",
+    "@google/generative-ai": "^0.24.1",
+    "@langchain/community": "^0.3.57",
+    "@langchain/google-genai": "^0.2.18",
+    "chromadb": "^3.0.15",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "formidable": "^3.5.4",
+    "langchain": "^0.3.35",
+    "multer": "^2.0.2",
+    "next": "^15.5.4",
+    "pdf-parse": "^1.1.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
