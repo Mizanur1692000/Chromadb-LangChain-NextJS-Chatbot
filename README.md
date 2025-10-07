@@ -53,3 +53,8 @@ This sample Node.js application shows a minimal Retrieval-Augmented Generation (
 
 ---
 This is an educational example. Before deploying to production, add error handling, rate-limiting, authentication, request size limits, and retry/backoff logic.
+
+# RUN The Application:
+1. chroma run --path ./chroma-data
+2. npm start
+### These two terminal should run at a time
